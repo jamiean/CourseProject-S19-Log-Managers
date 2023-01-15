@@ -1,4 +1,4 @@
-# CourseProject-S19-Log Managers  
+# CourseProject-S19-Log Managers
 
 This is course project of Juncheng An. <Spring 2019 - EECS 281: Data Structures and Algorithms - Project 3>.  
 
