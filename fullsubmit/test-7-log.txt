@@ -1,0 +1,15 @@
+01:01:01:01:01|EECS-281|a-hard-hard-hard-course
+99:99:99:99:99|EECS-183|an(interesting) course
+05:20:30:90:80|EECS-281|mid+term.terrble#$*(*#$
+30:40:50:90:80|EEcs183|Nothing special 281
+20:90:70:60:40|EEcs-280|elementary intersting course
+50:50:30:40:40|EECS 280|easy mid-had final
+20:89:69:59:39|EECS-203|only for EECS-281)($
+20:89:69:59:40|EECS]370|do not know anything
+20:89:69:60:40|EECS-376|seems not#)($#() interesting
+20:89:70:60:40|EECS-203|master theo$%(*rem hard)(#hard&course
+30:40:50:90:80|EECS-281|ALSO Master Theorem
+30:30:30:30:30|eecs-281|TERRIBLE
+30:50:90:60:50|eecs 183|AN EASY COURSE
+30:40:50:90:80|EEcs-281|Nothing special
+30:40:50:90:80|EECS-281|Nothing sp$%ecial EECS EECS-281

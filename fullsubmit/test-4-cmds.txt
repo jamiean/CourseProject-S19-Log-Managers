@@ -1,0 +1,16 @@
+a 2
+b 0
+a 3
+a 0
+s
+p
+k EECS-281
+r
+s
+p
+a 10
+a 14
+a 9
+s
+p
+q

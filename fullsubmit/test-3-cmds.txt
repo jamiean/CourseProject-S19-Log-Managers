@@ -1,0 +1,19 @@
+k EEcs
+g
+r
+k eecs-hard
+k eecs course
+k hard course
+k hard^E$%Ecs*CourSe
+k Eecs-2$%%$81
+g
+r
+k $%$)183
+k master 203$)(%
+k master EECS-281
+g
+r
+k EECS---------master
+r
+p
+q

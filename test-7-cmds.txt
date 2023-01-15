@@ -1,0 +1,16 @@
+k eEcs
+r
+k course
+r
+e 10
+e 7
+e 3
+s
+e 8
+e 4
+p
+e 5
+s
+l
+p
+q

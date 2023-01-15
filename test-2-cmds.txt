@@ -1,0 +1,18 @@
+c eecs-281
+g
+r
+c eecs
+g
+r
+c 281
+c EECS-281
+g
+r
+c eecs281
+g
+r
+c EECS183
+g
+r
+p
+q
